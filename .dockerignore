@@ -1,0 +1,9 @@
+**/.git
+**/.gitignore
+**/.vscode
+Dockerfile
+.dockerignore
+README.md
+docker-compose.yml
+__pycache__
+postman_template/
